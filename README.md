@@ -3,10 +3,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Done</b>
+- [Wazuh cyber security lab](Kali, Wazuh, Sublime, Hive, Metasploitable 2.0. Kali Purple - in progress) 
+  To get access - write me on Facebook or LinkedIn
+  
 - <b>Under construction </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](on demand)
-  - [Wazuh cyber security lab](on demand)
-  - [Sentinel + Azure security lab](on demand)
+    - [Sentinel + Azure security lab](on demand)
   - [Ransomware (Encrypter)](on demand)
   - [AWS-based lab and architecture](on demand)
   - [Azure-based lab and architecture](on demand)
